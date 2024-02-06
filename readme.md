@@ -1,12 +1,12 @@
-#About :
+# About :
 
 This is just a basic telegram bot to get the current price for a stock. It uses botfather for telegram bot creation and telegram api handling is done via telebot library.
 It use alpha vantage free api for getting stock price information.
 
-#Purpose :
+# Purpose :
 The only purpose of this bot is to show my basic python skills.
 
-#How to use :
+# How to use :
 1. Start with installing python & pip and the packages in requirements.txt file.
 For pip install
 ```
